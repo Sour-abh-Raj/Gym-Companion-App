@@ -13,7 +13,7 @@ env/
 *.sqlite3
 
 # Node.js specific
-node_modules/
+/Frontend/node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
